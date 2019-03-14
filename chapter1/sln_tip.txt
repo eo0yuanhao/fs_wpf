@@ -1,0 +1,4 @@
+无法直接建立F#的wpf程序，不过可以建立普通的F#程序后，添加一个xaml文件，添加wpf的引用后，可以像C#中一样的编辑，不过UI元素的绑定需要自己添加了
+
+*************************
+1. 引用 PresentationCore PresentationFramework WindowsBase  ,需要编辑xaml提示的话，需要添加 System.Xaml

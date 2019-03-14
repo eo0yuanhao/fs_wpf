@@ -1,4 +1,12 @@
 chapter1/fs_wpf/bin/
 chapter1/fs_wpf/obj/
 chapter1/packages/
+chapter1/.vs/
+
+chapter2/fs_wpf2/fs_wpf2/bin/
+chapter2/fs_wpf2/fs_wpf2/obj/
+chapter2/fs_wpf2/packages/
+chapter2/fs_wpf2/.vs/
+chapter2/fs_wpf2/WpfApp1/bin/
+chapter2/fs_wpf2/WpfApp1/obj/
 
