@@ -1,2 +1,4 @@
-*.exe
-*.dll
+chapter1/fs_wpf/bin/
+chapter1/fs_wpf/obj/
+chapter1/packages/
+
